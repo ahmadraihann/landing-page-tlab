@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Our experience tells us it's better this way. Not only because it is more efficient – the outcome is simply much better.",
+    "name": "Hamdan Hamedan",
+    "position": "CEO of Kesan Indonesia",
+    "backgroundColor": "#049CFB",
+    "backgroundImage": "first.svg",
+    "userImage": "user.svg"
+  },
+  {
+    "description": "Sejak akhir 2012, mulai dari konsep POS sederhana. Terus berkembang memenuhi kebutuhan. Dengan Tlab sistem dapat bertumbuh sesuai kebutuhan.",
+    "name": "Hamdan Hamedan",
+    "position": "CEO of Kesan Indonesia",
+    "backgroundColor": "#5449D6",
+    "backgroundImage": "two.svg",
+    "userImage": "user.svg"
+  },
+  {
+    "description": "Kreativitas, tanggung jawab, serta komunikasi yang andal menjadi kunci kelancaran kerjasama kami bersama TLab dalam membangun aplikasi Anterin.",
+    "name": "Hamdan Hamedan",
+    "position": "CEO of Kesan Indonesia",
+    "backgroundColor": "#00DE9C",
+    "backgroundImage": "three.svg",
+    "userImage": "user.svg"
+  }
+]
